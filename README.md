@@ -1,2 +1,2 @@
 # Competitive-Programming
-Here you can find solution of different online judges 
+Here you can find solutions of different online judges 
